@@ -1,7 +1,3 @@
-# O que é isso?
-
-Essa é uma aplicação feita para uma vaga de FullStack referente ao seguinte desafio: https://github.com/EnkiGroup/DevFullStackTest/blob/master/DESAFIO_PRATICO.md
-
 # Instruções para execução
 
 ## Requisitos
@@ -15,12 +11,12 @@ Essa é uma aplicação feita para uma vaga de FullStack referente ao seguinte d
 
 Assumindo que você já tem tudo instalado no seu computador, e já clonou o repositorio, vou assumir que o diretório onde foi clonado é
 ```
-C:\desafio\alberto\EnkiGroup
+C:\projetos\HandlingErrors
 ```
 
 1. Abra um powershell, e navega até o diretório da aplicação
 1. Execute um `dotnet restore`
-1. Navegue até o diretório `cd .\src\EnkiGroup.Web\ClientApp\`
+1. Navegue até o diretório `cd .\src\HandlingErrors.Web\ClientApp\`
 1. Execute `npm install`
 1. Volte 1 diretório `cd ..`
 1. Se você instalou o SQL Server LocalDB
